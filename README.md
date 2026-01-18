@@ -14,7 +14,9 @@ BUT in this project i will use swagger.
 ## SQL & NoSQL
 
 if you want to add a new column , it's a big headache in SQL .
+<br></br>
 for scale , NoSQL is varygood .
-
+<br></br>
 MongoDB -> NoSQL
+<br></br>
 MySQL -> SQL 
