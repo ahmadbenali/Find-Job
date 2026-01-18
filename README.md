@@ -3,7 +3,7 @@ a spring boot projects with mongoDB
 
 
 ## Test API calls 
-
+If you don't want to use frontend , use these tools to test your backend
 use one of these:
 1. postman
 2. swagger
